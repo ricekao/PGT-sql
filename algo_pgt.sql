@@ -112,7 +112,6 @@ ADD INDEX `w_g` (`w_g` ASC);
 
 
 
-
 -- STEP 4: calculate co-occurrence	
 -- We already have this table: bright_top5000 in Java at "runCoOccurrence" function
 -- We add indexes here
